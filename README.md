@@ -1,4 +1,4 @@
-# Home Pi
+# Pet Connect
 A simple application to access home camera from outside
 
 ### To Do:
