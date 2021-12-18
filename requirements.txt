@@ -1,0 +1,4 @@
+flask
+camera_pi
+importlib
+opencv-python
